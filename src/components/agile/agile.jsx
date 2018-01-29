@@ -11,11 +11,9 @@ class AgileComponent extends Component {
               <p className="text-justify">
                 Excellent results can be achieved through agility.
                 Therefore I try to empower the agile concept in any aspects of life.
-                I believe that brilliant software can only be achieved through constant feedback and an open mind.
-                Self-organization of teams triggers creativity.
+                I believe that brilliant software can lead us to a world of automation.
                 <br /> <br />
-                Through working experience, I have become an expert on Scrum.
-                I have worked with JIRA, Confluence and classic tools like post-its.
+                My vision is to make everything done ease with help of Artificial Intelligence and Web Technologies.
               </p>
           </div>
         );

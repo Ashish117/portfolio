@@ -16,20 +16,24 @@ class FooterComponent extends Component {
     return (
       <div className="footer">
         <div className="link-list">
-          <a target="_blank" href="https://github.com/salomonelli">
+          <a target="_blank" href="https://github.com/Ashish117">
             Github
           </a>
-           /
-          <a target="_blank" href="https://twitter.com/salomonelli">
+           ●
+          <a target="_blank" href="https://twitter.com/amvo97">
             Twitter
           </a>
-           /
-          <a target="_blank" href="https://www.xing.com/profile/Sara_Steiert">
-            Xing
+           ●
+          <a target="_blank" href="https://facebook.com/ashish.varghese.117">
+            Facebook
           </a>
-           /
-          <a target="_blank" href="https://www.linkedin.com/in/sara-steiert-b0a631134/">
-            LinkedIn
+           ●
+          <a target="_blank" href="https://instagram.com/ashish__117/">
+            Instagram
+          </a>
+          ●
+          <a target="_blank" href="http://ashish117.com">
+            Homepage
           </a>
         </div>
         <FlatButton labelStyle={{

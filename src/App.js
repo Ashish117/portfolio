@@ -6,9 +6,9 @@ import './App.css';
 import ProgressComponent from './components/progress/progress';
 import BrowserDetectComponent from './components/browser-detect/browser-detect';
 import HeaderComponent from './components/header/header';
-import DarkVoiceComponent from './components/dark-voice/dark-voice';
+//import DarkVoiceComponent from './components/dark-voice/dark-voice';
 import IntroductionComponent from './components/introduction/introduction';
-import TimelineComponent from './components/timeline/timeline';
+//import TimelineComponent from './components/timeline/timeline';
 import ProgrammingComponent from './components/programming/programming';
 import AgileQuoteComponent from './components/agile-quote/agile-quote';
 import AgileComponent from './components/agile/agile';
@@ -32,16 +32,6 @@ class App extends Component {
           <div className="section colored">
             <div className="section-container">
               <IntroductionComponent></IntroductionComponent>
-            </div>
-          </div>
-          <div className="section">
-            <div className="section-container">
-              <TimelineComponent></TimelineComponent>
-            </div>
-          </div>
-          <div className="section dark">
-            <div className="section-container">
-              <DarkVoiceComponent></DarkVoiceComponent>
             </div>
           </div>
           <div className="section colored">
